@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "safeMode": false,
+  "modules": {
+    "aiAssistant": {
+      "allowed": true,
+      "enabled": true
+    },
+    "aspectRatio": {
+      "allowed": true,
+      "enabled": true
+    },
+    "motionBlur": {
+      "allowed": true,
+      "enabled": true
+    },
+    "betterNameVisibility": {
+      "allowed": true,
+      "enabled": true
+    },
+    "optimizer": {
+      "allowed": true,
+      "enabled": true
+    },
+    "legendaryVisuals": {
+      "allowed": true,
+      "enabled": true
+    },
+    "sizeTimer": {
+      "allowed": true,
+      "enabled": true
+    },
+    "inventorySearch": {
+      "allowed": true,
+      "enabled": true
+    },
+    "screenshotActions": {
+      "allowed": true,
+      "enabled": true
+    },
+    "combatHud": {
+      "allowed": true,
+      "enabled": true
+    },
+    "cooldowns": {
+      "allowed": true,
+      "enabled": true
+    },
+    "music": {
+      "allowed": true,
+      "enabled": true
+    },
+    "armor": {
+      "allowed": true,
+      "enabled": true
+    },
+    "itemCounter": {
+      "allowed": true,
+      "enabled": true
+    },
+    "notifications": {
+      "allowed": true,
+      "enabled": true
+    },
+    "performance": {
+      "allowed": true,
+      "enabled": true
+    },
+    "session": {
+      "allowed": true,
+      "enabled": true
+    },
+    "deathRecap": {
+      "allowed": true,
+      "enabled": true
+    },
+    "chatTools": {
+      "allowed": true,
+      "enabled": true
+    },
+    "effects": {
+      "allowed": true,
+      "enabled": true
+    },
+    "opponentCooldowns": {
+      "allowed": true,
+      "enabled": true
+    },
+    "visualHat": {
+      "allowed": true,
+      "enabled": true
+    },
+    "legendarySize": {
+      "allowed": true,
+      "enabled": true
+    },
+    "legendarySounds": {
+      "allowed": true,
+      "enabled": true
+    },
+    "resourcePack": {
+      "allowed": true,
+      "enabled": true
+    },
+    "abilityGuide": {
+      "allowed": true,
+      "enabled": true
+    },
+    "quickCommands": {
+      "allowed": true,
+      "enabled": true
+    },
+    "waypoints": {
+      "allowed": true,
+      "enabled": true
+    },
+    "streamer": {
+      "allowed": true,
+      "enabled": true
+    },
+    "zoom": {
+      "allowed": true,
+      "enabled": true
+    },
+    "deathScreenshot": {
+      "allowed": true,
+      "enabled": true
+    },
+    "chatMentions": {
+      "allowed": true,
+      "enabled": true
+    },
+    "cooldownReady": {
+      "allowed": true,
+      "enabled": true
+    },
+    "musicDucking": {
+      "allowed": true,
+      "enabled": true
+    },
+    "dropGuard": {
+      "allowed": true,
+      "enabled": true
+    },
+    "slotLocks": {
+      "allowed": true,
+      "enabled": true
+    },
+    "shulkerPreview": {
+      "allowed": true,
+      "enabled": true
+    },
+    "chatDrafts": {
+      "allowed": true,
+      "enabled": true
+    },
+    "coordinateLinks": {
+      "allowed": true,
+      "enabled": true
+    },
+    "backgroundAlerts": {
+      "allowed": true,
+      "enabled": true
+    },
+    "discordPresence": {
+      "allowed": true,
+      "enabled": true
+    },
+    "watermark": {
+      "allowed": true,
+      "enabled": true
+    }
+  },
+  "updates": {
+    "1.21.4": "1.1.11",
+    "1.21.8": "1.1.11",
+    "1.21.11": "1.1.11",
+    "26.1": "1.1.11",
+    "26.2": "1.1.11",
+    "26.3": "1.1.11"
+  }
+}
