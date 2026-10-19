@@ -144,7 +144,7 @@
       "enabled": true
     },
     "slotLocks": {
-      "allowed": false,
+      "allowed": true,
       "enabled": true
     },
     "shulkerPreview": {
