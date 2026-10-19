@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
+  "revision": 2,
   "safeMode": false,
   "modules": {
     "aiAssistant": {
@@ -88,8 +88,8 @@
       "enabled": true
     },
     "visualHat": {
-      "allowed": true,
-      "enabled": true
+      "allowed": false,
+      "enabled": false
     },
     "legendarySize": {
       "allowed": true,
