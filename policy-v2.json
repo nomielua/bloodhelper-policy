@@ -1,0 +1,330 @@
+{
+  "schemaVersion": 2,
+  "revision": 3,
+  "safeMode": false,
+  "modules": {
+    "aiAssistant": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "aspectRatio": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "motionBlur": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "betterNameVisibility": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "optimizer": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "legendaryVisuals": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "sizeTimer": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "inventorySearch": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "screenshotActions": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "combatHud": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "cooldowns": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "music": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "armor": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "itemCounter": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "notifications": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "performance": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "session": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "deathRecap": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "chatTools": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "effects": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "opponentCooldowns": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "visualHat": {
+      "allowed": false,
+      "enabled": false,
+      "ips": true,
+      "banned-ips": []
+    },
+    "legendarySize": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "legendarySounds": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "resourcePack": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "abilityGuide": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "quickCommands": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "waypoints": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "streamer": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "zoom": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "deathScreenshot": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "chatMentions": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "cooldownReady": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "musicDucking": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "dropGuard": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "slotLocks": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "shulkerPreview": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "chatDrafts": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "coordinateLinks": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "backgroundAlerts": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "discordPresence": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "watermark": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "crosshair": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "generalHud": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "reachDisplay": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "comboCounter": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "saturation": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "hitboxes": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "freeLook": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "otherTiers": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    },
+    "inventoryProfiles": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": [
+        "bloodstone.gg",
+        "*.bloodstone.gg"
+      ]
+    },
+    "skins": {
+      "allowed": true,
+      "enabled": true,
+      "ips": true,
+      "banned-ips": []
+    }
+  },
+  "updates": {
+    "1.21.4": "1.1.11",
+    "1.21.8": "1.1.11",
+    "1.21.11": "1.1.11",
+    "26.1": "1.1.11",
+    "26.2": "1.1.11",
+    "26.3": "1.1.11"
+  }
+}
