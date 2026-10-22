@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": 3,
+  "revision": 4,
   "safeMode": false,
   "modules": {
     "aiAssistant": {
@@ -307,10 +307,7 @@
       "allowed": true,
       "enabled": true,
       "ips": true,
-      "banned-ips": [
-        "bloodstone.gg",
-        "*.bloodstone.gg"
-      ]
+      "banned-ips": []
     },
     "skins": {
       "allowed": true,
